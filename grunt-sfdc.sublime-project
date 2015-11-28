@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "d:/home/work/wave/grunt-sfdc", 
+            "folder_exclude_patterns": [
+                ".history"
+            ], 
+            "file_exclude_patterns": [
+                "*.md", 
+                "*.*-meta.xml"
+            ]
+        }
+    ]
+}
